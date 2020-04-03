@@ -1,6 +1,6 @@
 {
   "title": "Home",
-  "headline": "Build real-time editing into your site!",
+  "headline": "Build real-time editing into your site.",
   "description": "Tina is an open-source site editing toolkit for React-based sites like Gatsby + Next.js",
   "hero_video": "v1571425758/tina-hero-demo-v2",
   "hero_alt": "TinaCMS_video",
@@ -30,11 +30,11 @@
       },
       {
         "_template": "setup_point",
-        "step": "Wrap and export your templates with Tina components specific to your data"
+        "step": "Customize and define the content fields by passing an options argument"
       },
       {
         "_template": "setup_point",
-        "step": "Customize and define the content fields by passing an options argument"
+        "step": "Wrap and export your templates with Tina components specific to your data"
       },
       {
         "_template": "setup_point",
